@@ -1,4 +1,4 @@
 nodejs01
 ========
 
-node js test
+Nodejs test OpenShift application.
